@@ -4,10 +4,10 @@ A music streaming app that allows users to play audio files from local storage w
 
 ## Getting Started
 
-1.Clone the repository: git clone (https://github.com/nannmon1998/music-player-with-bloc.git)
-2.Install dependencies: flutter pub get
-3.Connect your device or start an emulator.
-4.Run the app: flutter run
+- Clone the repository: git clone (https://github.com/nannmon1998/music-player-with-bloc.git)
+- Install dependencies: flutter pub get
+- Connect your device or start an emulator.
+- Run the app: flutter run
 
 Features:
 
