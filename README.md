@@ -1,17 +1,22 @@
 # music_player_with_bloc
 
-A new Flutter project.
+A music streaming app that allows users to play audio files from local storage with a beautiful neumorphic UI design and provides a smooth user experience for browsing and playing music.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1.Clone the repository: git clone (https://github.com/nannmon1998/music-player-with-bloc.git)
+2.Install dependencies: flutter pub get
+3.Connect your device or start an emulator.
+4.Run the app: flutter run
 
-A few resources to get you started if this is your first Flutter project:
+Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Effortless browsing: Explore your music library with ease.
+- Stunning design: Experience a captivating neumorphic UI.
+- Seamless playback: Enjoy smooth audio control and playback.
+- Personalized favorites: Create playlists and mark your favorites for quick access.
+- Responsive experience: BLoC ensures a fluid and reactive app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# music-player-with-bloc
+# Screenshot
+
+<img width="1162" alt="music (1)" src="https://github.com/user-attachments/assets/9ddceaea-f4d0-4460-b46e-ffc4a45378cf">
